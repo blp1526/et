@@ -1,0 +1,10 @@
+{
+  "name": "ET",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "description": "Open an empty tab for Google Chrome",
+  "homepage_url": "https://github.com/blp1526/et",
+  "manifest_version": 2,
+  "version": "0.0.1"
+}
