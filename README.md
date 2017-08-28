@@ -1,8 +1,8 @@
 # ET
 
-Open an empty tab for Google Chrome
+A Google Chrome Extension to open an empty tab
 
-## Usage
+## Installation
 
 1. Run `make`.
 
