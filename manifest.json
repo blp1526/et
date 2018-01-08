@@ -6,9 +6,9 @@
   "description": "Open an empty tab",
   "homepage_url": "https://github.com/blp1526/et",
   "icons": {
-    "32": "icon_32.png",
-    "48": "icon_48.png",
-    "128": "icon_128.png"
+    "32": "icon_32_32.png",
+    "48": "icon_48_48.png",
+    "128": "icon_128_128.png"
   },
   "manifest_version": 2,
   "version": "0.0.1"
